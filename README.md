@@ -2,7 +2,7 @@
 
 ## Description
 
-An application called Note Taker that can be used to write and save notes using an Express.js back-end and deployed live on Heroku.
+An application called Note Taker that can be used to write, save, and delete notes using an Express.js back-end. Deployed live on Heroku.
 
 ### Live Deployment
 
@@ -36,4 +36,4 @@ Open
 
 For any questions, please contact me with the information below:
 
-GitHub: [@babelitoo](https://api.github.com/users/babelitoo)
+GitHub: [@babelitoo](https://github.com/babelitoo)
