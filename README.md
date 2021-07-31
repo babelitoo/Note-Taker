@@ -8,10 +8,8 @@ An application called Note Taker that can be used to write and save notes using 
 
 https://hidden-oasis-30659.herokuapp.com/
 
-### Screen shots
-
-Demo Gif:
-
+## Demo Gif:
+![](note.gif.gif)
 
 ## Table of Contents
 
